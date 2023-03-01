@@ -1,0 +1,169 @@
+C:\Users\Mondli\Desktop\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe.config
+C:\Users\Mondli\Desktop\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Desktop\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Desktop\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csprojResolveAssemblyReference.cache
+C:\Users\Mondli\Desktop\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.Properties.Resources.resources
+C:\Users\Mondli\Desktop\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysPOSForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csproj.GenerateResource.Cache
+C:\Users\Mondli\Desktop\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Desktop\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe.config
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csprojResolveAssemblyReference.cache
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.Properties.Resources.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysPOSForm.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csproj.GenerateResource.Cache
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysInventoryManForm.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockManagementForm.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysFunctionsForm.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsCustomerManagementForm.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsPaymentForm.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsStaffManagementForm.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainLoginForm.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainAboutBox.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainMenuForm.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.POSPaymentForm.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysOrderRetrievalForm.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockQuantitManForm.resources
+C:\Users\Mondli\Desktop\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMSActDeactStockForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe.config
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csprojResolveAssemblyReference.cache
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsCustomerManagementForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsPaymentForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsStaffManagementForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMSActDeactStockForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockManagementForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockQuantitManForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainLoginForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainAboutBox.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainMenuForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.POSPaymentForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.Properties.Resources.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysFunctionsForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysInventoryManForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysOrderRetrievalForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysPOSForm.resources
+C:\Users\Mondli\Documents\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csproj.GenerateResource.Cache
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe.config
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csprojResolveAssemblyReference.cache
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsCustomerManagementForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsPaymentForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsStaffManagementForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMSActDeactStockForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockManagementForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockQuantitManForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainLoginForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainAboutBox.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainMenuForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.POSPaymentForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.Properties.Resources.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysFunctionsForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysInventoryManForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysOrderRetrievalForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysPOSForm.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csproj.GenerateResource.Cache
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.POSSlip.resources
+C:\Users\Mondli\Desktop\RAT RACE\UKZN_CSIT\ISTN3SI\PROJECT\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsOrderHistoryForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe.config
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csprojResolveAssemblyReference.cache
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsOrderHistoryForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsPaymentForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsStaffManagementForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMSActDeactStockForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockManagementForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockQuantitManForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainLoginForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainAboutBox.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainMenuForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.POSPaymentForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.POSSlip.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.Properties.Resources.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysFunctionsForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysInventoryManForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysPOSForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM3Presentation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csproj.GenerateResource.Cache
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe.config
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csprojResolveAssemblyReference.cache
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsOrderHistoryForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsPaymentForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsStaffManagementForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMSActDeactStockForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockManagementForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockQuantitManForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainLoginForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainAboutBox.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainMenuForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.POSPaymentForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.POSSlip.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.Properties.Resources.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysFunctionsForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysInventoryManForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysPOSForm.resources
+C:\Users\Mondli\Desktop\LupaISPrototypeM4Preparation\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csproj.GenerateResource.Cache
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe.config
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.pdb
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csprojResolveAssemblyReference.cache
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsOrderHistoryForm.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsPaymentForm.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsStaffManagementForm.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMSActDeactStockForm.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockManagementForm.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockQuantitManForm.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainLoginForm.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainAboutBox.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainMenuForm.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.POSPaymentForm.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.POSSlip.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.Properties.Resources.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysFunctionsForm.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysInventoryManForm.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysPOSForm.resources
+C:\Users\Mondli\Downloads\LupaISPrototypeM4Preparation - bk0\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csproj.GenerateResource.Cache
+E:\UNIVERSITY_UKZN_CSIT\BSC CSIT\YEAR 03_2022\UKZN_CSIT_2022_W2\ISTN3SI\MAJOR PROJECT\_IMPORTANT PRESENTATION\LupaISPrototypeM4Preparation_PRESENTEDM4\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe.config
+E:\UNIVERSITY_UKZN_CSIT\BSC CSIT\YEAR 03_2022\UKZN_CSIT_2022_W2\ISTN3SI\MAJOR PROJECT\_IMPORTANT PRESENTATION\LupaISPrototypeM4Preparation_PRESENTEDM4\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.exe
+E:\UNIVERSITY_UKZN_CSIT\BSC CSIT\YEAR 03_2022\UKZN_CSIT_2022_W2\ISTN3SI\MAJOR PROJECT\_IMPORTANT PRESENTATION\LupaISPrototypeM4Preparation_PRESENTEDM4\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.pdb
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe.config
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.exe
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.pdb
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.exe
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\bin\Debug\LupaISPrototype.pdb
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csprojResolveAssemblyReference.cache
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsOrderHistoryForm.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsPaymentForm.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.FunctionsStaffManagementForm.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMSActDeactStockForm.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockManagementForm.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.IMStockQuantitManForm.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainLoginForm.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainAboutBox.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.MainMenuForm.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.POSPaymentForm.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.POSSlip.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.Properties.Resources.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysFunctionsForm.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysInventoryManForm.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.SubSysPOSForm.resources
+C:\Users\LINDANI\Documents\LupaISPrototype\LupaISPrototype\obj\Debug\LupaISPrototype.csproj.GenerateResource.Cache
